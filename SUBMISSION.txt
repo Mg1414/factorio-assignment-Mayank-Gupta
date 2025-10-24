@@ -1,0 +1,6 @@
+Name: Mayank Gupta
+Email: manyankg22@iitk.ac.in
+OS: macOS
+CPU/RAM: Laptop-class CPU, 16 GB RAM
+Language: Python 3.9.6
+Notes: SciPy 1.13.1 and NumPy 2.0.2 available in environment.
